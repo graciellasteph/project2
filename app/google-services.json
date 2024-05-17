@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "587993558814",
+    "project_id": "hostelmanagement-5bde5",
+    "storage_bucket": "hostelmanagement-5bde5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587993558814:android:2cf6218cf631e47ea1630f",
+        "android_client_info": {
+          "package_name": "com.naomi.hostelmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtLJidvZGQ1IrzU9YoHhVykG11zIUf3xM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
